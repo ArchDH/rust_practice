@@ -1,0 +1,1 @@
+C:\Users\soske\Documents\Git-Repo\Rust_Practice\target\debug\Rust_Practice.exe: C:\Users\soske\Documents\Git-Repo\Rust_Practice\src\conditional.rs C:\Users\soske\Documents\Git-Repo\Rust_Practice\src\main.rs
